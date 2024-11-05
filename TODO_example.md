@@ -18,5 +18,3 @@ View the raw content of this file to understand the format.
 
 - [x] Create my first TODO.md  
 
-
-
